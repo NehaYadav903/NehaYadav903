@@ -14,9 +14,7 @@ Through continuous self-study I have been building a solid foundation in both fr
 
 🌱 I continue to learn how to combine powerful visualization components and a data-driven approach to DOM manipulation.<br/> 
 
-👯 I’m looking for new and exciting opportunities to use my previous experience and newly acquired skills<br/>
-
-🥅 2022 Goal: Find a hybrid role in Web Development<br/>
+✨ Passion for Creating Impact: Leveraging technology to drive positive change for non-profit organizations, one line of code at a time.<br/>
 
 💬 Ask me about anything<br/>
 
