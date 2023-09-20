@@ -14,9 +14,8 @@ Through continuous self-study I have been building a solid foundation in both fr
 
 🌱 I continue to learn how to combine powerful visualization components and a data-driven approach to DOM manipulation.<br/> 
 
-✨ Passion for Creating Impact: Leveraging technology to drive positive change for non-profit organizations, one line of code at a time.<br/>
-
-💬 Ask me about anything<br/>
+🚀🌟 I am always excited to collaborate on interesting projects and learn from the diverse perspectives of the developer community. Feel free to reach out to me for collaboration or any questions about my work. Let's code the future together! 
+<br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-NehaYadav-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nehayadav/)](www.linkedin.com/in/neha-yadav-15701b24)
 [![Medium Badge](https://img.shields.io/badge/-Nehayadav-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/nehayadav/)](https://medium.com/@nehayadav903/meta-programming-in-ruby-f36e3a0ab378)
